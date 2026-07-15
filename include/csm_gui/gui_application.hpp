@@ -1,0 +1,8 @@
+//
+// Created by 1111 on 15.07.2026.
+//
+
+#ifndef GUI_APPLICATION_HPP
+#define GUI_APPLICATION_HPP
+
+#endif //GUI_APPLICATION_HPP
