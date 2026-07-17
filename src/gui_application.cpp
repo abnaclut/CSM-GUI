@@ -91,7 +91,7 @@ namespace csm_gui
 
   void GuiApplication::render()
   {
-    // Используем ImGui::GetIO() for window size
+    // ImGui::GetIO() for window size
     ImGuiIO& io = ImGui::GetIO();
 
     ImGui::SetNextWindowSize(io.DisplaySize, ImGuiCond_Always);
